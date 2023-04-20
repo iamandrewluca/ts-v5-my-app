@@ -1,5 +1,7 @@
 # WebStorm Vue TypeScript issue
 
+https://user-images.githubusercontent.com/1881266/233501760-8e0164f9-0d6a-4dac-9975-cc2b91e125be.mp4
+
 ```
 WebStorm 2023.1
 Build #WS-231.8109.174, built on March 28, 2023
